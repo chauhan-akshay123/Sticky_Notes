@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Sticky_Notes/static/js/main.2d02ba3e.chunk.js",
-    "main.js.map": "/Sticky_Notes/static/js/main.2d02ba3e.chunk.js.map",
+    "main.js": "/Sticky_Notes/static/js/main.57d6f369.chunk.js",
+    "main.js.map": "/Sticky_Notes/static/js/main.57d6f369.chunk.js.map",
     "runtime-main.js": "/Sticky_Notes/static/js/runtime-main.763734e5.js",
     "runtime-main.js.map": "/Sticky_Notes/static/js/runtime-main.763734e5.js.map",
     "static/js/2.b0d4c692.chunk.js": "/Sticky_Notes/static/js/2.b0d4c692.chunk.js",
     "static/js/2.b0d4c692.chunk.js.map": "/Sticky_Notes/static/js/2.b0d4c692.chunk.js.map",
     "index.html": "/Sticky_Notes/index.html",
-    "precache-manifest.df99ddf36fe87fabb630c9dc1f19715a.js": "/Sticky_Notes/precache-manifest.df99ddf36fe87fabb630c9dc1f19715a.js",
+    "precache-manifest.db1ef380dd4c5b1cb238d4de89915e1b.js": "/Sticky_Notes/precache-manifest.db1ef380dd4c5b1cb238d4de89915e1b.js",
     "service-worker.js": "/Sticky_Notes/service-worker.js",
     "static/js/2.b0d4c692.chunk.js.LICENSE.txt": "/Sticky_Notes/static/js/2.b0d4c692.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.763734e5.js",
     "static/js/2.b0d4c692.chunk.js",
-    "static/js/main.2d02ba3e.chunk.js"
+    "static/js/main.57d6f369.chunk.js"
   ]
 }
